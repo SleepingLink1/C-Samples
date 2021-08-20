@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\danny\desktop\cs 11 c++ (usb copy)\project 9\project 9\source.cpp(36): warning C4715: 'romantype::value': not all control paths return a value
+  Project 9.vcxproj -> C:\Users\danny\Desktop\CS 11 C++ (USB COPY)\Project 9\Debug\Project 9.exe
